@@ -1,12 +1,16 @@
 
 
-# **Nguveren Azoom**   
+# **Nguveren Azoom**  
+|hb
+| -------------: |
+|gitHub.com/ Nguveren|
+| LinkedIn/Nguveren Azoom|
+| azoomn@myumanitoba.ca  |
+| 431-337-1231           ||
 ---
 
-|                    :---:|  
-| LinkedIn/Nguveren Azoom|  
-| azoomn@myumanitoba.ca |  
-| 431-337-1231 |
+
+
 
 ## **Education**  
 **Bachelor of Science - Computer Science Major**  
