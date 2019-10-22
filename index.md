@@ -14,7 +14,7 @@ University of Manitoba | Expected: December 2020
 ### Programming languages  
 * Java  
 * HTML
-* C++
+* C++gvyvytv
 * Ruby
 * Python
 * C#
@@ -33,7 +33,7 @@ University of Manitoba | Expected: December 2020
 
 
 ## **Experience**  
-### Virtual software Engineer - Intern 
+### Virtual software Engineer - Intern
 #### Open Learning Exchange - Winnipeg, Canada
 * Assisted with the development of the software as needed.
 * Assisted with the software QA process and deployments of the library’s software and hardware.  
