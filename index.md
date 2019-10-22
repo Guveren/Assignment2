@@ -3,21 +3,23 @@
 # **Nguveren Azoom**   
 ---
 
-azoomn@myumanitoba.ca | 431-337-1231 | LinkedIn/Nguveren Azoom
-
+|                    ---:|  
+| LinkedIn/Nguveren Azoom|  
+| azoomn@myumanitoba.ca |  
+| 431-337-1231 |
 
 ## **Education**  
 **Bachelor of Science - Computer Science Major**  
 University of Manitoba | Expected: December 2020  
 ## **Technical Skills**
 |Programming languages|Tools and technologies    | Frameworks and Libraries|
-| ----------------------------------------------------|----------------------------------------------|-----------------------------------------|
+| ---|---|---|
 |          Java        | Xamarin Forms         | jQuery |
-| HTML|Git      |              ASP.NET       |
+| HTML| Git      |              ASP.NET       |
 | C++ | MySQL                         | Bootstrap |
 | Ruby                | AWS                       | anohter|
-| Python              |  AndroidStudio                          | another |
-| C#                                              | No equality with implicit casting (thankfully) |another |
+| Python              |  Android Studio                          | another |
+| C#                  | No equality with implicit casting(thankfully) |another |
 
 
 
