@@ -4,7 +4,7 @@
 
 # **Nguveren Azoom**                        
 431-337-1231  
-azoomn@myumanitoba.cahgjhkhckhcj
+azoomn@myumanitoba.ca
 -------------------     ----------------------------
 
 ## **Education**  
@@ -14,7 +14,7 @@ University of Manitoba | Expected: December 2020
 ### Programming languages  
 * Java  
 * HTML
-* C++
+* C++ytg
 * Ruby
 * Python
 * C#
