@@ -19,7 +19,7 @@ University of Manitoba | Expected: December 2020
 | Python              |  AndroidStudio                          | another |
 | C#                                              | No equality with implicit casting (thankfully) |another |
 
- 
+
 
 ## **Experience**  
 ### Virtual software Engineer - Intern
