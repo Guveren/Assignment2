@@ -1,13 +1,10 @@
 
 
--------------------     ----------------------------  
 
-# **Nguveren Azoom**  
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------                       
+
+# **Nguveren Azoom**   
+***
+
 431-337-1231  
 azoomn@myumanitoba.ca
 
@@ -19,7 +16,7 @@ University of Manitoba | Expected: December 2020
 ### Programming languages  
 * Java  
 * HTML
-* C++ytg
+* C++
 * Ruby
 * Python
 * C#
