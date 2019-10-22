@@ -5,7 +5,7 @@
 # **Nguveren Azoom**                        
 431-337-1231  
 azoomn@myumanitoba.ca
--------------------     ----------------------------
+
 
 ## **Education**  
 **Bachelor of Science - Computer Science Major**  
