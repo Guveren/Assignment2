@@ -16,13 +16,13 @@
 **Bachelor of Science - Computer Science Major**  
 University of Manitoba | Expected: December 2020  
 ## **Technical Skills**
-|Programming languages|Tools and technologies    | Frameworks and Libraries|
-| ---|---|---|
-|          Java        | Xamarin Forms         | jQuery |
-| HTML| Git      |              ASP.NET       |
-| C++ | MySQL                         | Bootstrap |
-| Ruby                | AWS                       | anohter|
-| Python              |  Android Studio                          | another |
+|Programming languages|Tools and technologies    | Frameworks and Libraries|  
+| ---|---|---|  
+|          Java        | Xamarin Forms         | jQuery |  
+| HTML| Git      |              ASP.NET       |  
+| C++ | MySQL                         | Bootstrap |  
+| Ruby                | AWS                       | anohter|  
+| Python              |  Android Studio                          | another |  
 | C#                  | No equality with implicit casting(thankfully) |another |
 
 
