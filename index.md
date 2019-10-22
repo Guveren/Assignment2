@@ -3,7 +3,7 @@
 # **Nguveren Azoom**   
 ---
 
-|                    ---:|  
+|                    :---:|  
 | LinkedIn/Nguveren Azoom|  
 | azoomn@myumanitoba.ca |  
 | 431-337-1231 |
