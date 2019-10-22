@@ -14,7 +14,7 @@ University of Manitoba | Expected: December 2020
 ### Programming languages  
 * Java  
 * HTML
-* C++gvyvytv
+* C++
 * Ruby
 * Python
 * C#
