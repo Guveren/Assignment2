@@ -2,13 +2,8 @@
 
 # **Nguveren Azoom**  
 ---
-|hb
-| -------------: |
-|gitHub.com/ Nguveren|
-| LinkedIn/Nguveren Azoom|
-| azoomn@myumanitoba.ca  |
-| 431-337-1231           ||
----
+gitHub.com/ Nguveren | LinkedIn/Nguveren Azoom|azoomn@myumanitoba.ca  | 431-337-1231           
+
 
 
 
@@ -18,7 +13,7 @@
 University of Manitoba | Expected: December 2020  
 ## **Technical Skills**
 |Programming languages|Tools and technologies    | Frameworks and Libraries|  
-| ------|  --------------|-----------|  
+| ------|  ------------- |-----------|  
 | Java  | Xamarin Forms  | jQuery    |  
 | HTML  | Git            | ASP.NET   |  
 | C++   | MySQL          | Bootstrap |  
