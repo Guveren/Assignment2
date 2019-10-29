@@ -46,9 +46,8 @@ University of Manitoba | Expected: December 2020
 ## **Projects**
 #### Online Home Service booking System
 *
-* ubkunloi
-* jhb,jnkn,l
-* nmbjyguhki  
+*
+*  
 
 #### Online Registration System
 *
