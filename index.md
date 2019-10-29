@@ -2,11 +2,7 @@
 
 # **Nguveren Azoom**  
 ---
-gitHub.com/ Nguveren | LinkedIn/Nguveren Azoom|azoomn@myumanitoba.ca  | 431-337-1231           
-
-
-
-
+gitHub.com/ Nguveren | LinkedIn/Nguveren Azoom |  azoomn@myumanitoba.ca  | 431-337-1231           
 
 ## **Education**  
 **Bachelor of Science - Computer Science Major**  
@@ -17,9 +13,9 @@ University of Manitoba | Expected: December 2020
 | Java  | Xamarin Forms  | jQuery    |  
 | HTML  | Git            | ASP.NET   |  
 | C++   | MySQL          | Bootstrap |  
-| Ruby  | AWS            | another   |  
-| Python|Android Studio  | another   |  
-| C#    | No             | another   |
+| Ruby  | AWS            | .NET Core |  
+| Python|Android Studio  |           |  
+| C#    |                |           |
 
 
 
@@ -36,8 +32,27 @@ University of Manitoba | Expected: December 2020
 * Adjusted software parameters to boost performance and incorporate new features.
 * Prepared and submitted reports and other documentation to assist development team members.
 
+### Junior Software developer - intern
+#### Randstad - Winnipeg, Manitoba
+
+* Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.
+* Adjusted software parameters to boost performance and incorporate new features
+* Orchestrated efficient large-scale software deployments, including testing features and correcting code
+* Maintained existing applications and designed and delivered new applications
+* Built, tested and deployed scalable, highly available and modular software products
+* Walked clients and internal staff through troubleshooting steps to resolve common software issues
+* Developed next generation integration platform for internal applications
+
 ## **Projects**
+#### Online Home Service booking System
+*
+* ubkunloi
+* jhb,jnkn,l
+* nmbjyguhki  
+
+#### Online Registration System
+*
 
 ## **Events**
 #### HackerNest Tech Social (Volunteer)
- * meet ... areas of specializations
+ * Social networking  
