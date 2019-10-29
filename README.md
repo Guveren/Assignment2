@@ -44,7 +44,7 @@ Here, our text editor of interest is Atom. Thus we need to ensure we have the re
 
 Now that we have all that we need to begin, Ensure that the resume file we are editing is written via markdown and has the filename extension  ""**.md**""
 * Given that we have created a repository, we are going to connect atom with GitHub and to do this we will first
-> 1. Select the **Clone or download** drop-down menu and click on the clipboard button  ![image_7](image_7.png)
+> 1. Select the **Clone or download** drop-down menu and click on the clipboard button  ![image_7](http://github.com/guveren/Assignment2/raw/master/images/image_7.png)
 > 2. Open atom application and simultaneously click on ```cmd + shift + p ``` to toggle the command palette.
 > 3. Type in ```GitHub: Clone```
 > 4. Paste the directory or use ```cmd + v```.  ![image_8](image_8.png) to insert the link the GitHub repository and click on the **+Init** button
