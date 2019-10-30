@@ -17,8 +17,8 @@ Some of items we will need to achieve hosting a resume on a GitHub page is liste
 * A Resume *written in markdown*
 * Text Editor (*In this case, we will be using* Atom)
 * Github account
- > * Sign into your gitHub account here ... using your gitHub account details.  
- > * If you do **NOT** have an account, you could create an account by signing up here[link]
+  > * Sign into your gitHub account ![here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjn_5qG8MLlAhXXqp4KHeh0D9IQFjAAegQICBAC&url=https%3A%2F%2Fgithub.com%2Flogin&usg=AOvVaw0YPQjBCLvq4nLugtBaJju7)using your gitHub account details.  
+  > * If you do **NOT** have an account, you could create an account by signing up here ![Join GitHub](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwjn_5qG8MLlAhXXqp4KHeh0D9IQFjADegQIAhAB&url=https%3A%2F%2Fgithub.com%2Fjoin&usg=AOvVaw0H9TK-nu7JfXaoNeNMgJEk)
 
 * GitHub repository  
   Here's how to **create a GitHub repository**
