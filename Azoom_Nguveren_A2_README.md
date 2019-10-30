@@ -5,18 +5,17 @@ Github is a repository hosting service for software development deployed through
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-Essentially, our mission here is to host a resume on a GitHub page. Further down below, are step by step guidelines on how to accomplish the this task.
+Essentially, our mission here is to host a resume on a GitHub page. Further down below, are step by step guidelines on how to accomplish this task.
 
 ## Audience
 This is intended for individuals with no prior knowledge with GitHub or Git, Jekyll, Markdown and little experience using atom. It focuses on a plain approach to familiarize individuals with these tools to improve technical communication in the tech community.
 ### 1.0. Prerequisites
-What things you need to install the software and how to install them.
 Some of items we will need to achieve hosting a resume on a GitHub page is listed as follows:  
 
 * A Resume *written in markdown*
 * Text Editor (*In this case, we will be using* Atom)
-* Github account
-  > * Sign into your gitHub account here [GitHub Sign-in](https://github.com/login ) using your gitHub account details.  
+* GitHub account
+  > * Sign into your GitHub account here [GitHub Sign-in](https://github.com/login ) using your GitHub account details.  
   > * If you do **NOT** have an account, you could create an account by signing up here [Join GitHub](https://github.com/join)
 
 * GitHub repository  
@@ -40,7 +39,7 @@ Here, our text editor of interest is Atom. Thus we need to ensure that we have t
 
 ## Deployment
 
-Assuming that we have all we need to begin, lets make sure that the resume file we are editing is written via markdown and has the filename extension  ""**.md**"". Why?  Not only is Markdown easier to type and read, it is applicable to anyone from developers, designers to even the Non-techies! New to markdown? Here is a link to an awesome and quick tutorial of how to use markdown [Markdown Tutorial](https://www.markdowntutorial.com)
+Assuming that we have all we need to begin, let's make sure that the resume file we are editing is written via markdown and has the filename extension  ""**.md**"". Why?  Not only is Markdown easier to type and read, it is applicable to anyone from developers, designers to even the Non-techies! New to markdown? Here is a link to an awesome and quick tutorial of how to use markdown [Markdown Tutorial](https://www.markdowntutorial.com)
 
 ### 2.0. Associating Atom with GitHub
 Given that we have created a repository, we are going to connect atom with GitHub and to do this we will first
@@ -55,7 +54,7 @@ While editing our resume, we constantly want to be updating it. This is why we w
 Essentially, this is a small snippet of what we will be doing ![gifA](https://github.com/Guveren/Assignment2/blob/master/images/gifA.gif)
 
 ### 2.2. Format the resume using Jekyll themes
-On the course of formatting our resume, we might want to include  a few additions in order to enhance it's visual appeal. We will integrate Jekyll themes into our resume, this is a very simple and quick process.
+On the course of formatting our resume, we might want to include  a few additions in order to enhance its visual appeal. We will integrate Jekyll themes into our resume, this is a very simple and quick process.
 > 1. While on your GitHub page, navigate your way to the working repository.
 > 2. Select the **Settings** button on the top-left of the panel menu.  
 > 3. Under the **GitHub pages** panel, click on the **choose template** button.
