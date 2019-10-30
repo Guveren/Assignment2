@@ -74,5 +74,6 @@ The list of contributors who participated in this project.
 
 ## FAQs
 * The changes I made does not immediately apply
+  + th
+* How do I insert images ?
   +
-* 
