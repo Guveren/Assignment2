@@ -17,7 +17,7 @@ Some of items we will need to achieve hosting a resume on a GitHub page is liste
 * A Resume *written in markdown*
 * Text Editor (*In this case, we will be using* Atom)
 * Github account
-  > * Sign into your gitHub account here [Sign in](https://github.com/login )using your gitHub account details.  
+  > * Sign into your gitHub account here [GitHub Sign-in](https://github.com/login ) using your gitHub account details.  
   > * If you do **NOT** have an account, you could create an account by signing up here [Join GitHub](https://github.com/join)
 
 * GitHub repository  
@@ -50,12 +50,13 @@ Given that we have created a repository, we are going to connect atom with GitHu
 > 3. Type in ```GitHub: Clone```
 > 4. Paste the directory or use ```cmd + v```.  ![image_8](https://github.com/Guveren/Assignment2/blob/master/images/image_8.png) to insert the link the GitHub repository and click on the **+Init** button
 
-### 2.1. Staging Commits and pushing
-While editing our resume, we might want to be constantly updating our resume. This is why we will need to work with committing changes to our resume. Think of this process as a detailed revision of the resume. Here's how we commit changes to the resume.  
-Essentially, a small snippet of what we will be doing ![gifA](https://github.com/Guveren/Assignment2/blob/master/images/gifA.gif)
+### 2.1. Staging, Commits and Pushing
+While editing our resume, we constantly want to be updating it. This is why we will need to work with committing changes to our resume. Think of this process as a detailed revision of the resume. Here's how we commit changes to the resume.  
+
+Essentially, this is a small snippet of what we will be doing ![gifA](https://github.com/Guveren/Assignment2/blob/master/images/gifA.gif)
 
 ### 2.2. Format the resume using Jekyll themes
-On the course of formatting our document, at this point, we have a few additions that we can add to enhance it's visual appeal. We will integrate Jekyll themes into our resume, this is a very simple and quick process.
+On the course of formatting our resume, we might want to include  a few additions in order to enhance it's visual appeal. We will integrate Jekyll themes into our resume, this is a very simple and quick process.
 > 1. While on your GitHub page, navigate your way to the working repository.
 > 2. Select the **Settings** button on the top-left of the panel menu.  
 > 3. Under the **GitHub pages** panel, click on the **choose template** button.
