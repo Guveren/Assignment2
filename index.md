@@ -32,12 +32,12 @@ University of Manitoba | Expected: December 2020
 #### Randstad - Winnipeg, Manitoba
 
 * Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.
-* Adjusted software parameters to boost performance and incorporate new features
-* Orchestrated efficient large-scale software deployments, including testing features and correcting code
-* Maintained existing applications and designed and delivered new applications
-* Built, tested and deployed scalable, highly available and modular software products
-* Walked clients and internal staff through troubleshooting steps to resolve common software issues
-* Developed next generation integration platform for internal applications
+* Adjusted software parameters to boost performance and incorporate new features.
+* Orchestrated efficient large-scale software deployments, including testing features and correcting code.
+* Maintained existing applications and designed and delivered new applications.
+* Built, tested and deployed scalable, highly available and modular software products.
+* Walked clients and internal staff through troubleshooting steps to resolve common software issues.
+* Developed next generation integration platform for internal applications.
 
 ## **Projects**
 #### Online Home Service booking System

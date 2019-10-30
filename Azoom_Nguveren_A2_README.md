@@ -76,5 +76,5 @@ The list of contributors who participated in this project.
 ## FAQs
 * The changes I made does not immediately apply
   + The changes made will take a few minutes to update, in the mean time you can try refreshing the page
-* How do I insert images ?
-  +
+* where do I see my hosted resume?
+  + First select the README source file and click on Settings in your repository, then scroll down to the **GitHub Panel Pages** and click on the link attached to the phrase *"Your site is Published at"*
