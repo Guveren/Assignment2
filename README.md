@@ -21,11 +21,11 @@ Some of items we will need to achieve hosting a resume on a GitHub page is liste
  * If you do **NOT** have an account, you could create an account by signing up here[link]
 
  * GitHub repository
-> 1. Once you are logged in, to get started, create a new repository by clicking on the **+** Drop-down menu located at the top-left corner and select the option **New repository**.  ![image_2](image_2.png)
-> 2. Enter your desired repository name in the provided text-box for the repository name preferably short and memorable.  ![repName](repName.png)  
-> 3. This is optional, but you could type in a description of the repository like "Host a resume" ![image_2](image_3.png)
-> 4. Depending on your preference, you can decide to make the repository **private** or **public** by selecting one  of the radioButtons.![image_3](image_4.png)
-> 5. Select **Initialize this repository with a README**![image_4](image_5.png)
+> 1. Once you are logged in, to get started, create a new repository by clicking on the **+** Drop-down menu located at the top-left corner and select the option **New repository**.  ![image_2](http://github.com/guveren/Assignment2/raw/master/images/image_2.png)
+> 2. Enter your desired repository name in the provided text-box for the repository name preferably short and memorable.  ![repName](http://github.com/guveren/Assignment2/raw/master/images/repName.png)  
+> 3. This is optional, but you could type in a description of the repository like "Host a resume" ![image_2](http://github.com/guveren/Assignment2/raw/master/images/image_3.png)
+> 4. Depending on your preference, you can decide to make the repository **private** or **public** by selecting one  of the radioButtons.![image_3](http://github.com/guveren/Assignment2/raw/master/images/image_4.png)
+> 5. Select **Initialize this repository with a README**![image_4](http://github.com/guveren/Assignment2/raw/master/images/image_5.png)
 > 6. Finally, click on the button **Create repository**.
 >There you have it, you have successfully created a repository.
 
@@ -42,12 +42,13 @@ Here, our text editor of interest is Atom. Thus we need to ensure we have the re
 
 ## Deployment
 
-Now that we have all that we need to begin, Ensure that the resume file we are editing is written via markdown and has the filename extension  ""**.md**""
-* Given that we have created a repository, we are going to connect atom with GitHub and to do this we will first
+Now that we have all that we need to begin, Ensure that the resume file we are editing is written via markdown and has the filename extension  ""**.md**"".
+
+Given that we have created a repository, we are going to connect atom with GitHub and to do this we will first
 > 1. Select the **Clone or download** drop-down menu and click on the clipboard button  ![image_7](http://github.com/guveren/Assignment2/raw/master/images/image_7.png)
 > 2. Open atom application and simultaneously click on ```cmd + shift + p ``` to toggle the command palette.
 > 3. Type in ```GitHub: Clone```
-> 4. Paste the directory or use ```cmd + v```.  ![image_8](image_8.png) to insert the link the GitHub repository and click on the **+Init** button
+> 4. Paste the directory or use ```cmd + v```.  ![image_8](http://github.com/guveren/Assignment2/raw/master/images/image_8.png) to insert the link the GitHub repository and click on the **+Init** button
 
 * ### commiting
 ### stageing and pushing
