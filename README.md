@@ -31,7 +31,6 @@ Here's how to **create a GitHub repository**
 >There you have it, you have successfully created a repository.
 
 
-
  ### 1.1. Installing
 Here, our text editor of interest is Atom. Thus we need to ensure we have the required IDE(*Integrated Development Environment*). If you do have Atom IDE, you will need to install it.
 > To install the Atom IDE, visit: [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/).  
@@ -53,7 +52,7 @@ Given that we have created a repository, we are going to connect atom with GitHu
 
 ### 2.2. Staging Commits and pushing
 While editing our resume, we might want to be constantly updating our resume. this is why we will need to work with committing changes to our resume. Think of this process as a detailed revision of the resume. Here's how we commit changes to the resume.  
-Here is a small snippet of what will be doing ![gifA](http://github.com/guveren/Assignment2/raw/master/images/gifA.gif)
+Here is a small snippet of what will be doing ![gifA](https://github.com/Guveren/Assignment2/blob/master/images/gifA.gif)
 
 ### 2.3. Format the resume using Jekyll themes
 On the course of formatting our document, at this point we have a few additions that we can add to enhance it's visual appeal. We will integrate Jekyll themes into our resume, this is a very simple and quick process.
