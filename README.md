@@ -63,17 +63,18 @@ On the course of formatting our resume, we might want to include  a few addition
 
 ## Additional Resources
 * https://www.markdownguide.org/basic-syntax/#line-breaks
+* [Creating your own Jekyll Theme](https://medium.com/@jameshamann/creating-your-own-jekyll-theme-gem-1f8180a0e4b8)
 
 ## Authors and Acknowledgements
 The list of contributors who participated in this project.
 
-* gitHub for atom
+* [GitHub for atom](https://github.atom.io)
 * resources from Christina Penner.
 * Michael Ukwenya
 * Annas Isa
 
 ## FAQs
 * The changes I made does not immediately apply
-  + th
+  + The changes made will take a few minutes to update, in the mean time you can try refreshing the page
 * How do I insert images ?
   +
