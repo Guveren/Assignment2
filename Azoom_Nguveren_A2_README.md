@@ -69,7 +69,7 @@ On the course of formatting our resume, we might want to include  a few addition
 The list of contributors who participated in this project.
 
 * [GitHub for atom](https://github.atom.io)
-* resources from Christina Penner.
+* Resources from Christina Penner.
 * Michael Ukwenya
 * Annas Isa
 
