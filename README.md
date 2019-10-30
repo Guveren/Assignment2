@@ -73,3 +73,6 @@ The list of contributors who participated in this project.
 * Annas Isa
 
 ## FAQs
+* The changes I made does not immediately apply
+  +
+* 
