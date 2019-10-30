@@ -17,8 +17,8 @@ Some of items we will need to achieve hosting a resume on a GitHub page is liste
 * A Resume *written in markdown*
 * Text Editor (*In this case, we will be using* Atom)
 * Github account
-  > * Sign into your gitHub account here ![Sign in](https://github.com/login )using your gitHub account details.  
-  > * If you do **NOT** have an account, you could create an account by signing up here ![Join GitHub](https://github.com/join)
+  > * Sign into your gitHub account here [Sign in](https://github.com/login )using your gitHub account details.  
+  > * If you do **NOT** have an account, you could create an account by signing up here [Join GitHub](https://github.com/join)
 
 * GitHub repository  
   Here's how to **create a GitHub repository**
@@ -36,12 +36,12 @@ Here, our text editor of interest is Atom. Thus we need to ensure that we have t
 > To install the Atom IDE, visit: [https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/).  
 
   We also will be formatting our resume using Jekyll themes. If you do not have the latest version of Jekyll and ruby, then you will need to install these using terminal.
-> To install Ruby and then Jekyll, visit:![https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
+> To install Ruby and then Jekyll, visit: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
 
 
 ## Deployment
 
-Assuming that we have all we need to begin, lets make sure that the resume file we are editing is written via markdown and has the filename extension  ""**.md**"". Why?  Not only is Markdown easier to type and read, it is applicable to anyone from developers, designers to even the Non-techies! New to markdown? Here is a link to an awesome and quick tutorial of how to use markdown ![Markdown Tutorial](https://www.markdowntutorial.com)
+Assuming that we have all we need to begin, lets make sure that the resume file we are editing is written via markdown and has the filename extension  ""**.md**"". Why?  Not only is Markdown easier to type and read, it is applicable to anyone from developers, designers to even the Non-techies! New to markdown? Here is a link to an awesome and quick tutorial of how to use markdown [Markdown Tutorial](https://www.markdowntutorial.com)
 
 ### 2.0. Associating Atom with GitHub
 Given that we have created a repository, we are going to connect atom with GitHub and to do this we will first
