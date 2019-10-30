@@ -8,16 +8,12 @@ gitHub.com/ Nguveren | LinkedIn/Nguveren Azoom |  azoomn@myumanitoba.ca  | 431-3
 **Bachelor of Science - Computer Science Major**  
 University of Manitoba | Expected: December 2020  
 ## **Technical Skills**
-|Programming languages|Tools and technologies    | Frameworks and Libraries|  
-| ------|  ------------- |-----------|  
-| Java  | Xamarin Forms  | jQuery    |  
-| HTML  | Git            | ASP.NET   |  
-| C++   | MySQL          | Bootstrap |  
-| Ruby  | AWS            | .NET Core |  
-| Python|Android Studio  |           |  
-| C#    |                |           |
+Programming languages: Java, HTML, C++, Ruby, Python, C#
+Tools and Technologies: Xamarin Forms, Git, MySQL, Andriod Studio
+Frameworks and Libraries: ASP.NET, BootStrap, jQuery
 
 
+  
 
 ## **Experience**  
 ### Virtual software Engineer - Intern
@@ -45,12 +41,10 @@ University of Manitoba | Expected: December 2020
 
 ## **Projects**
 #### Online Home Service booking System
-*
-*
-*  
+*  Designed and developed an application for booking a home service. Handled virtual clients requests based on priority of order in which the request came in.
 
 #### Online Registration System
-*
+* Implemented an online course registration system using HTML and CSS. Handled the database of the registered clients and updated the system.
 
 ## **Events**
 #### HackerNest Tech Social (Volunteer)
