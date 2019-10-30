@@ -1,6 +1,5 @@
 # How to host your resume on GitHub Pages
 
-
 Github is a repository hosting service for software development deployed through Git which is a version control system. With GitHub, we can host portfolios/blogs, projects or websites directly from a repository on gitHub.
 
 ## Getting Started
@@ -9,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 Essentially, our mission here is to host a resume on a GitHub page. Further down below, are step by step guidelines on how to accomplish the this task.
 
 ## Audience
-This article is intended for individuals with no prior knowledge with GitHub or Git. It focuses on a
- ### 1.0. Prerequisites
+This is intended for individuals with no prior knowledge with GitHub or Git, Jekyll, Markdown and little experience using atom. It focuses on a plain approach to familiarize individuals with these tools to improve technical communication in the tech community.
+### 1.0. Prerequisites
 What things you need to install the software and how to install them.
 Some of items we will need to achieve hosting a resume on a GitHub page is listed as follows:  
 
@@ -62,32 +61,15 @@ On the course of formatting our resume, we might want to include  a few addition
 > 3. Under the **GitHub pages** panel, click on the **choose template** button.
 > 4. Choose a theme and click the green **Select theme** button. ![image_9](https://github.com/Guveren/Assignment2/blob/master/images/image_9.png)
 
-
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Additional Resources
-
 * https://www.markdownguide.org/basic-syntax/#line-breaks
 
+## Authors and Acknowledgements
+The list of contributors who participated in this project.
 
-## Authors
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* Resources from Christina Penner.
+* gitHub for atom
+* resources from Christina Penner.
+* Michael Ukwenya
+* Annas Isa
 
 ## FAQs
