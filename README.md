@@ -17,8 +17,8 @@ Some of items we will need to achieve hosting a resume on a GitHub page is liste
 * A Resume *written in markdown*
 * Text Editor (*In this case, we will be using* Atom)
 * Github account
-  > * Sign into your gitHub account ![here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjn_5qG8MLlAhXXqp4KHeh0D9IQFjAAegQICBAC&url=https%3A%2F%2Fgithub.com%2Flogin&usg=AOvVaw0YPQjBCLvq4nLugtBaJju7)using your gitHub account details.  
-  > * If you do **NOT** have an account, you could create an account by signing up here ![Join GitHub](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwjn_5qG8MLlAhXXqp4KHeh0D9IQFjADegQIAhAB&url=https%3A%2F%2Fgithub.com%2Fjoin&usg=AOvVaw0H9TK-nu7JfXaoNeNMgJEk)
+  > * Sign into your gitHub account here ![Sign in](https://github.com/login )using your gitHub account details.  
+  > * If you do **NOT** have an account, you could create an account by signing up here ![Join GitHub](https://github.com/join)
 
 * GitHub repository  
   Here's how to **create a GitHub repository**
@@ -51,8 +51,8 @@ Given that we have created a repository, we are going to connect atom with GitHu
 > 4. Paste the directory or use ```cmd + v```.  ![image_8](https://github.com/Guveren/Assignment2/blob/master/images/image_8.png) to insert the link the GitHub repository and click on the **+Init** button
 
 ### 2.1. Staging Commits and pushing
-While editing our resume, we might want to be constantly updating our resume. this is why we will need to work with committing changes to our resume. Think of this process as a detailed revision of the resume. Here's how we commit changes to the resume.  
-Here is a small snippet of what will be doing ![gifA](https://github.com/Guveren/Assignment2/blob/master/images/gifA.gif)
+While editing our resume, we might want to be constantly updating our resume. This is why we will need to work with committing changes to our resume. Think of this process as a detailed revision of the resume. Here's how we commit changes to the resume.  
+Essentially, a small snippet of what we will be doing ![gifA](https://github.com/Guveren/Assignment2/blob/master/images/gifA.gif)
 
 ### 2.2. Format the resume using Jekyll themes
 On the course of formatting our document, at this point, we have a few additions that we can add to enhance it's visual appeal. We will integrate Jekyll themes into our resume, this is a very simple and quick process.
