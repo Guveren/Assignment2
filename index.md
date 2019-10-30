@@ -2,18 +2,18 @@
 
 # **Nguveren Azoom**  
 ---
-gitHub.com/ Nguveren | LinkedIn/Nguveren Azoom |  azoomn@myumanitoba.ca  | 431-337-1231           
+gitHub.com/ Guveren | LinkedIn/Nguveren Azoom |  azoomn@myumanitoba.ca  | 431-337-1231           
 
 ## **Education**  
 **Bachelor of Science - Computer Science Major**  
 University of Manitoba | Expected: December 2020  
 ## **Technical Skills**
-Programming languages: Java, HTML, C++, Ruby, Python, C#
-Tools and Technologies: Xamarin Forms, Git, MySQL, Andriod Studio
+Programming languages: Java, HTML, C++, Ruby, Python, C#  
+Tools and Technologies: Xamarin Forms, Git, MySQL, Andriod Studio  
 Frameworks and Libraries: ASP.NET, BootStrap, jQuery
 
 
-  
+
 
 ## **Experience**  
 ### Virtual software Engineer - Intern
